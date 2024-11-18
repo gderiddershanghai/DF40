@@ -1,0 +1,8 @@
+# Ignore the dataset directory
+DeepfakeBench_DF40/training/dataset/
+
+# Ignore the dataset_json directory
+DeepfakeBench_DF40/preprocessing/dataset_json/
+
+# Ignore the pretrained directory
+DeepfakeBench_DF40/training/pretrained/
